@@ -1,0 +1,70 @@
+html {
+    background-image: url(https://img.freepik.com/free-photo/beautiful-aerial-shot-of-a-forest-enveloped-in-creepy-mist-and-fog_181624-2659.jpg?w=740&t=st=1683232739~exp=1683233339~hmac=c79306ceb2664a34fb21b72f5b1dd7292686e5bb7c503d2bb53d0edc1f3dd0e4);
+    font-family: cursive;
+    text-align: center;
+    background-size: 100% 100%;
+}
+
+h3,
+ol,
+ul {
+    text-align: left;
+}
+
+ol,
+ul {
+    border-style: ridge;
+    border-radius: 20px;
+    width: 300px;
+}
+
+h1 {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+    text-size: 100px;
+}
+
+h2 {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.h3_share {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.h3_see {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_photo {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_impressions {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_link {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_places {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_inhabitants {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
+
+.li_review {
+    color: aliceblue;
+    text-shadow: 5px 2px 3px blueviolet;
+}
